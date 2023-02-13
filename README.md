@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Taiwo Akinwolere
+- 👋 Hello there, I’m Taiwo Akinwolere
 - 👀 I’m interested in frontend web dev.
 - 🌱 I’m currently interested in React (and other JS frameworks), Wordpress CMS & NodeJS language.
 - 💞️ I’m looking to collaborate on projects about websites and web applications development.
-- 📫 How to reach me: linkedin: taiwo@u6solutions.co.uk
+- 📫 How to reach me: taiwo@u6solutions.co.uk
 
 <!---
 Teetech22/Teetech22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
