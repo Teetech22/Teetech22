@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Taiwo Akinwolere
-- 👀 I’m interested in frontend web dev.
+- 👀 I’m interested in Frontend Web dev. & Data Analysis
 - 🌱 I’m currently interested in React (and other JS frameworks), Wordpress CMS & NodeJS language.
 - 💞️ I’m looking to collaborate on projects about websites and web applications development.
 - 📫 How to reach me: taiwo@u6solutions.co.uk
